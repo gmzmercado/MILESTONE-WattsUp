@@ -13,6 +13,8 @@ This study delves into solving Time Series Machine Learning issues, focusing on 
 
 The study emphasizes **Mean Absolute Error (MAE)** as the crucial metric for evaluating Time Series models, given its accuracy in measuring prediction errors.
 
+![GBM](GBM.png)
+
 ## Data Sources and Description
 
 ### Dataset Used
